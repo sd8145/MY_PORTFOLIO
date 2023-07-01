@@ -11,21 +11,21 @@ The portfolio showcases the work and skills of the owner, highlighting their ach
 The portfolio is designed using modern web development technologies, including HTML, CSS, and JavaScript. The combination of these technologies allows for a dynamic and visually appealing website that is both user-friendly and responsive across different devices.
 
 <h3>Features</h3> 
-<h4>Home</h4>Home: The homepage introduces the owner and provides a brief summary of their background, skills, and interests.
-<h4>Projects</h4>: This section showcases the owner's projects, including descriptions, images, and links to view more details or visit the live versions.
-<h4>Skills</h4>: Here, the owner lists their skills and technologies they are proficient in, providing an overview of their capabilities.
-<h4>Experience</h4>: This section highlights the owner's professional experience, including previous roles, responsibilities, and achievements.
-<h4>Contact</h4>: The contact page provides various ways to get in touch with the owner, such as through a contact form or social media links.
+<h4>Home</h4>:The homepage introduces the owner and provides a brief summary of their background, skills, and interests.
+<h4>Projects</h4>:This section showcases the owner's projects, including descriptions, images, and links to view more details or visit the live versions.
+<h4>Skills</h4>:Here, the owner lists their skills and technologies they are proficient in, providing an overview of their capabilities.
+<h4>Experience</h4>:This section highlights the owner's professional experience, including previous roles, responsibilities, and achievements.
+<h4>Contact</h4>:The contact page provides various ways to get in touch with the owner, such as through a contact form or social media links.
 
 <h3>Installation</h3>
-1. Clone the repository: git clone https://https://github.com/sd8145/MY_PORTFOLIO
-2. Open the project folder.
-3. Open the index.html file in your preferred web browser.  
+1. Clone the repository: git clone https://https://github.com/sd8145/MY_PORTFOLIO<br>
+2. Open the project folder.<br>
+3. Open the index.html file in your preferred web browser.  <br>
 
 <h3>Usage</h3>
-1. Navigate through the different sections using the navigation menu.
-2. Click on project images or titles to view more details or visit live versions.
-3. Use the contact page to get in touch with the owner or follow them on social media.
+1. Navigate through the different sections using the navigation menu.<br>
+2. Click on project images or titles to view more details or visit live versions.<br>
+3. Use the contact page to get in touch with the owner or follow them on social media.<br>
 
 <h3>Contributing</h3>
 Contributions to the project are welcome. If you find any issues or have suggestions for improvements, please feel free to submit a pull request.
@@ -34,5 +34,5 @@ Contributions to the project are welcome. If you find any issues or have suggest
 This project is licensed under the MIT License.
 
 <h3>Author</h3>
-SURYANSH DWIVEDI
+SURYANSH DWIVEDI<br> 
 Feel free to customize the README.md file according to your needs. Include additional sections or information to make it more comprehensive and informative.
